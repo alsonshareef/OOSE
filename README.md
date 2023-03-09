@@ -1,1 +1,1 @@
-# OOSE
+# Course material for OOSE.
